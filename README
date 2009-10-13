@@ -1,0 +1,4 @@
+very basic command line file uploader app for windows, written in .NET 3.5
+does not take any command line parameters at the moment.  I mainly used 
+this for testing uploading to gullery.  prints out a whole crapload of debug
+information.  It should be runnable under Mono, but I haven't tried.

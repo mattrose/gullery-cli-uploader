@@ -1,0 +1,10 @@
+C:\Users\mattrose\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\mattrose\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\mattrose\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mattrose\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\mattrose\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\Users\mattrose\Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\mattrose\Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\Users\mattrose\Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\mattrose\Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\mattrose\Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
